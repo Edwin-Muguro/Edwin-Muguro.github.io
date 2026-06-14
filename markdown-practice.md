@@ -71,4 +71,4 @@ print("Hello, world!")
 ```
 # Exercise 8
 ## Blockquote
->Success in programming comes from consistent practice, not speed.
+Success in programming comes from consistent practice, not speed.
